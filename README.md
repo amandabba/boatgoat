@@ -5,7 +5,7 @@ If for some reson you would want to recreate this project, please find a better 
 
 Materials
 - Metal drive dog shaft
-- Brass inserts & M3 screws
+- Brass inserts & M3 screws (to screw the motor to the base, and to screw both parts of the hull together)
 - Water cooling jacket (size 36-L)
 - Waterproof brushless motor (I used one with a 3670 label)
 - Electronic speed controller (came with the brushless motor in a kit) 
