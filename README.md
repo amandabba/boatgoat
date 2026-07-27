@@ -11,4 +11,4 @@ Materials
 - Electronic speed controller (came with the brushless motor in a kit) 
 - 4S Lipo battery, 14.8V
 
-
+I wanted to experiment more with the impeller size since it would cost less than experimenting with different hulls, so there's a bunch of variations of impellers, including ones with different blade numbers and different angle of attack / pitches of the blade. 
